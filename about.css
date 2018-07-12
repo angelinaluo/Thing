@@ -1,0 +1,44 @@
+h1{
+  font-family: "Verdana";
+  color: black;
+  font-size: 25px;
+  text-decoration-line: underline;
+}
+
+body{
+  border-collapse: separate;
+  border-style: solid;
+  font-family: "Verdana";
+}
+
+.show{
+  display: inline;
+}
+.hide{
+  display:none;
+}
+
+button{
+  background-color: #FFFFFF;
+  border: none
+  text-align: center;
+  font-size: 30 px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+button2{
+  background-color: #FFFFFF;
+  border: none
+  text-align: center;
+  font-size: 30 px;
+  cursor: pointer;
+}
+button2:hover{
+  background-color: #000000;
+  color: #FFFFFF;
+}
